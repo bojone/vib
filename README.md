@@ -1,2 +1,1 @@
-# vib
-Variational Information Bottleneck
+# Variational Information Bottleneck
